@@ -1,0 +1,14 @@
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/bin/Debug/netcoreapp2.1/gentaesthetic.deps.json
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/bin/Debug/netcoreapp2.1/gentaesthetic.runtimeconfig.json
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/bin/Debug/netcoreapp2.1/gentaesthetic.runtimeconfig.dev.json
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/bin/Debug/netcoreapp2.1/gentaesthetic.dll
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/bin/Debug/netcoreapp2.1/gentaesthetic.pdb
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/obj/Debug/netcoreapp2.1/gentaesthetic.csprojAssemblyReference.cache
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/obj/Debug/netcoreapp2.1/gentaesthetic.csproj.CoreCompileInputs.cache
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/obj/Debug/netcoreapp2.1/gentaesthetic.RazorAssemblyInfo.cache
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/obj/Debug/netcoreapp2.1/gentaesthetic.RazorAssemblyInfo.cs
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/obj/Debug/netcoreapp2.1/gentaesthetic.AssemblyInfoInputs.cache
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/obj/Debug/netcoreapp2.1/gentaesthetic.AssemblyInfo.cs
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/obj/Debug/netcoreapp2.1/gentaesthetic.RazorTargetAssemblyInfo.cache
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/obj/Debug/netcoreapp2.1/gentaesthetic.dll
+/Users/rs_tyler_crawford/Documents/Code/gentaesthetic/obj/Debug/netcoreapp2.1/gentaesthetic.pdb
